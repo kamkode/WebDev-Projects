@@ -77,8 +77,4 @@ Web Development Demo Pages collection<br><br>
 | Sorting Visualizer | [Code](https://github.com/keshavgbpecdelhi/Web-Development/tree/master/Sorting_Visualizer) | [Demo](https://sortingvisualizera.netlify.app/) |
 | Age Calculator | [Code](https://github.com/DevanshMudgal/Web-Development/tree/master/AgeCalculator) | [Demo](https://demo.100jsprojects.com/age-calculator) |
 
-## :handshake: Our Contributors
 
-<a href="https://github.com/keshavgbpecdelhi/Web-Development"><p align="center">
-  <img src="https://contrib.rocks/image?repo=keshavgbpecdelhi/Web-Development" style="float:none;" /></p>
-</a>
